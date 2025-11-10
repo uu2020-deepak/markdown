@@ -1,10 +1,15 @@
-# Markdown Technical Blog
-This repository for our Technical Markdown Blog.
+# Project: EduWe Docs
 
-## Links
+Welcome to the **EduWe Documentation Project** powered by Markdown & MkDocs 🚀
 
-Example of Links
+## ✅ Features
+- [x] Hands-on Azure Labs
+- [x] Markdown Syntax Guide
+- [ ] Deploy to GitHub Pages
+- [ ] Automate Build Pipelines
 
-## Images
+## 🧩 Commands
+Run the following command to start your MkDocs server:
 
-Example of Images
+```bash
+mkdocs serve
