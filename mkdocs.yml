@@ -1,0 +1,17 @@
+site_name: My Technical Blog
+
+nav:
+  - Home: index.md
+  - Markdown Overview: About.md
+  - Tutorials:
+      - Links: labs/links.md
+      - Lists: labs/lists.md
+      - Images: labs/images.md
+      - Tables: labs/tables.md
+  - GFM: toc.md
+  
+markdown_extensions:
+  - pymdownx.tilde
+  - pymdownx.emoji
+  - pymdownx.mark
+  - footnotes
