@@ -1,8 +1,4 @@
 
----
-
-### 💡 **Rendered Output (in GitHub README):**
-
 # Project: EduWe Docs
 
 Welcome to the **EduWe Documentation Project** powered by Markdown & MkDocs 🚀
